@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
 <h2 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=38&pause=1000&color=F8F6E8FF&center=true&width=1007&height=80&lines=Hi+There+%F0%9F%91%8B%2C+You+can+call+me+%E2%88%86LV%C3%8FN;I+Build%2C+Test+and+Deploy+code.;Yes+I'm+a+DevOps+Engineer." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=38&pause=1000&color=61DAA3FF&center=true&width=1007&height=80&lines=Hi+There+%F0%9F%91%8B%2C+You+can+call+me+%E2%88%86LV%C3%8FN;I+Build%2C+Test+and+Deploy+code.;Yes+I'm+a+DevOps+Engineer." alt="Typing SVG" /></a>
 </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alviura&label=Profile%20views&color=0e75b6&style=flat" alt="Alviura" /> </p>
@@ -34,7 +34,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-<h3 align="left">⚡ Stats ⚡</h3>
+<h2 align="left">⚡ Stats ⚡</h2>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alviura&layout=compact&theme=nightowl" alt=Alviura />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Alviura&show_icons=true&locale=en&theme=nord" alt="Alviura" /></p>
@@ -42,6 +42,6 @@
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Alviura&theme=dracula" alt="Alviura" /></p>
 <br>
 <hr>
-<h3 align="left">🐍 My Contributions 🐍</h3>
+<h2 align="left">🐍 My Contributions 🐍</h2>
 <br>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Alviura/Alviura/output/github-contribution-grid-snake-dark.svg" />
