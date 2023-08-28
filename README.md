@@ -5,21 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alviura&label=Profile%20views&color=0e75b6&style=flat" alt="Alviura" /> </p>
 
-<div align="center">
 - 🔭 I’m currently working on **API Automation**
-  
 - 👯 I’m looking to collaborate on **Any Open source project**
-- 
 - 🌱 I’m currently learning **Kubernetes, Docker**
-- 
 - 💬 Ask me about **Shell, APIs, Docker, Git**
-- 
 - 📫 How to reach me **alviura@outlook.com**
-- 
 - ⚡ Fun fact **I bet I can beat you at Call of Duty**
-- 
-</div>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alviura" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="alviura" height="30" width="40" /></a><a href="https://linkedin.com/in/alvin-mwaura-733785261" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="alvin-mwaura-733785261" height="30" width="40" /></a><a href="https://discord.gg/4768" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="4768" height="30" width="40" /></a></p>
