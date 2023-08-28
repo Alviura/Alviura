@@ -41,7 +41,6 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Alviura&theme=dracula" alt="Alviura" /></p>
 <br>
-<hr>
 <h2 align="left">🐍 My Contributions 🐍</h2>
 <br>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Alviura/Alviura/output/github-contribution-grid-snake-dark.svg" />
