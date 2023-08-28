@@ -7,11 +7,17 @@
 
 <div align="center">
 - 🔭 I’m currently working on **API Automation**
+  
 - 👯 I’m looking to collaborate on **Any Open source project**
+- 
 - 🌱 I’m currently learning **Kubernetes, Docker**
+- 
 - 💬 Ask me about **Shell, APIs, Docker, Git**
+- 
 - 📫 How to reach me **alviura@outlook.com**
+- 
 - ⚡ Fun fact **I bet I can beat you at Call of Duty**
+- 
 </div>
 
 <h3 align="left">Connect with me:</h3>
