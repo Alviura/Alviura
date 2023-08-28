@@ -34,14 +34,13 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
+<h3 align="left">⚡ Stats ⚡</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alviura&layout=compact&theme=nightowl" alt=Alviura />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Alviura&show_icons=true&locale=en&theme=nord" alt="Alviura" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Alviura&theme=dracula" alt="Alviura" /></p>
-
-<div align="center">
-  <h2>Snake eating my contribution</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Alviura/Alviura/output/github-contribution-grid-snake-dark.svg" />
+<br>
+<h3 align="left">🐍 My Contributions 🐍</h3>
+<br>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Alviura/Alviura/output/github-contribution-grid-snake-dark.svg" />
