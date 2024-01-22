@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alviura&label=Profile%20views&color=0e75b6&style=flat" alt="Alviura" /> </p>
 
-- 🔭 I’m currently working on **API Automation**
+- 🔭 I’m currently working on **An Anime Fan Page**
 - 👯 I’m looking to collaborate on **Any Open source project**
-- 🌱 I’m currently learning **Kubernetes, Docker**
+- 🌱 I’m currently learning **Web Development & Design**
 - 💬 Ask me about **Shell, APIs, Docker, Git**
 - 📫 How to reach me **alviura@outlook.com**
 - ⚡ Fun fact **I bet I can beat you at Call of Duty**
