@@ -4,5 +4,5 @@
 </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alviura&label=Profile%20views&color=0e75b6&style=flat" alt="Alviura" /> </p>
-<img src="https://giffiles.alphacoders.com/206/206306.gif"/>
+<img align="centre" src="https://giffiles.alphacoders.com/206/206306.gif"/>
 
