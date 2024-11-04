@@ -1,1 +1,4 @@
-<img src="https://github.com/Alviura/Alviura/blob/main/206306.gif" />
+<div align="center">
+  <img src="https://github.com/Alviura/Alviura/blob/main/206306.gif" />
+  </br>
+</div>
